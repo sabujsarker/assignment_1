@@ -1,0 +1,41 @@
+.title-warp.compear-page.average-page .chart-warp .text p.left {
+  background: #0071bd;
+  color: white;
+  border-left: 0px solid #0071bd;
+}
+
+.title-warp.compear-page.average-page .compear-chart {
+  margin-top: 40px;
+  margin-left: 10px;
+}
+
+.title-warp.compear-page.average-page .compear-chart ul li {
+  line-height: 40px;
+  position: relative;
+}
+
+.title-warp.compear-page.average-page .compear-chart .chart-bar {
+  bottom: 23.6px;
+}
+
+.title-warp.compear-page.average-page .compear-chart span.cart-result {
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+  margin-left: 61px;
+  padding-top: 20px;
+  font-weight: bold;
+}
+
+.title-warp.compear-page.average-page .compear-chart span.ff0000 {
+  color: #ff0000;
+}
+
+.title-warp.compear-page.average-page .compear-chart span.clr008000 {
+  color: #008000;
+}
+
+.title-warp.compear-page.average-page .compear-chart span.f7f7f {
+  color: #7f7f7f;
+}
+/*# sourceMappingURL=style1.css.map */
